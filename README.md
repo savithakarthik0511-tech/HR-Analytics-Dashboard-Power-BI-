@@ -94,7 +94,6 @@ HR Analytics Dashboard -
 ## 📬 Connect with Me
 
 If you have feedback or suggestions, feel free to connect with me on LinkedIn!
-LinkedIn URL - www.linkedin.com/in/nagasavitha-k-7385753b5
 
 ---
 
